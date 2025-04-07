@@ -1,0 +1,16 @@
+@charset "UTF-8";
+tr{
+	color:black;
+	background-color:grey;
+	text-align:center;
+}
+th{
+	color:black;
+	background-color:grey;
+	text-align:center;
+}
+td{
+	background-color:grey;
+	border:solid;
+	text-align:center;
+}
